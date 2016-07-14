@@ -8,7 +8,7 @@ package mathstuff;
 
 /**
  *
- * @author root
+ * @author somebody
  */
 public class PepperGame 
 {
